@@ -22,7 +22,7 @@
 
 ### 👾 Hernandes Guereta
 
-Sou estudante de desenvolvimento web, atualmente focado em construir interfaces modernas, responsivas e com uma estética cyberpunk/hacker.
+Sou estudante de desenvolvimento web, atualmente focado em construir interfaces modernas e responsivas.
 
 Atualmente estou estudando e praticando:
 
