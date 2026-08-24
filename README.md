@@ -43,14 +43,6 @@ Estou estudando e praticando `HTML`, `CSS`, `JavaScript` e `TypeScript`, buscand
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HernandesGuereta&theme=default&hide_border=true&background=0F172A&border=1E293B&stroke=334155&ring=38BDF8&fire=38BDF8&currStreakNum=F1F5F9&currStreakLabel=38BDF8&sideNums=CBD5E1&sideLabels=94A3B8&dates=64748B" />
-
-</div>
-
-<br>
-
 ## Projetos em Destaque
 
 <div align="center">
