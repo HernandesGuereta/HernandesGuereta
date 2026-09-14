@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=220&section=header&text=Hernandes%20Guereta&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Front-End%20Developer&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=220&section=header&text=Hernandes%20Guereta&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=16"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=64748B&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Focado+em+Front-End;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Construindo+interfaces+modernas+e+responsivas" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=64748B&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Focado+em+Full-Stack;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Construindo+interfaces+modernas+e+responsivas" />
 
 <br><br>
 
@@ -57,13 +57,16 @@ Estou estudando e praticando `HTML`, `CSS`, `JavaScript` e `TypeScript`, buscand
 </div>
 
 <br>
-
 ## Conecte-se
 
 <div align="center">
 
 <a href="https://github.com/HernandesGuereta">
   <img src="https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github&logoColor=94A3B8">
+</a>
+
+<a href="https://www.linkedin.com/in/hernandes-guereta-8920b1278/">
+  <img src="https://img.shields.io/badge/LinkedIn-1E293B?style=flat-square&logo=linkedin&logoColor=94A3B8">
 </a>
 
 </div>
